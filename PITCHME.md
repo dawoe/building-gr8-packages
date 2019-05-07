@@ -1,5 +1,5 @@
 @title[Building Gr8 Packages]
 
-@snap
+@snap[west]
 Building Gr8 Packages
 @snapend
