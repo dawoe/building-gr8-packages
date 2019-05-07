@@ -2,12 +2,13 @@
 
 @title[Building Gr8 Packages]
 
-@snap[east text-25 text-bold]
+@snap[east text-bold]
 
-Building gr8 packages
+# Building gr8 packages
 
 @snapend
----?imagetemplate/img/umbraco-dave-woestenborghs.jpg&position=right&size=50% 100%
+
+---?image=template/img/dave-woestenborghs_smaller.jpg&position=right&size=auto 100%
 
 @title[Introduction Dave]
 
@@ -16,5 +17,5 @@ Topics to be covered today
 @snapend
 
 @snap[east span-45]
-@img[split-screen-img span-45](template/img/umbraco-dave-woestenborghs.jpg)
+
 @snapend
