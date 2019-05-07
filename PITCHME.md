@@ -2,8 +2,8 @@
 
 @title[Building Gr8 Packages]
 
-@snap[west]
+@snap[east text-25 text-bold]
 
-# Building Gr8 Packages
+Building Gr8 Packages
 
 @snapend
