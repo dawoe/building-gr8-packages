@@ -5,11 +5,10 @@
 
 @fa[arrow-down text-black]
 
-@snap[south docslink span-50]
-[The Template Docs](https://gitpitch.com/docs/the-template)
+@snap[south docslink span-50][the template docs](https://gitpitch.com/docs/the-template)
 @snapend
 
-+++?image=template/img/bg/orange.jpg&position=right&size=50% 100%
++++?image=template/img/dave-woestenborghs.jpg
 @title[Heading + List Body]
 
 @snap[west text-16 text-bold text-italic text-orange span-50]
@@ -18,16 +17,16 @@ Topics to be covered today
 
 @snap[east text-white span-45]
 @ol[split-screen-list text-08](false)
+
 - Lorem ipsum dolor sit amet, consectetur elit
 - Ut enim ad minim veniam, quis exercitation
 - Duis aute irure dolor in reprehenderit in voluptate
-@olend
-@snapend
+  @olend
+  @snapend
 
 @snap[south-west template-note text-gray]
 Split-screen heading and list body template.
 @snapend
-
 
 +++?image=template/img/bg/pink.jpg&position=left&size=70% 100%
 @title[Heading + List Body]
@@ -38,17 +37,17 @@ Top<br>Tips!
 
 @snap[west text-white span-65]
 @ul[split-screen-list text-08](false)
+
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
 - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 - Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
 - Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-@ulend
-@snapend
+  @ulend
+  @snapend
 
 @snap[south-west template-note text-white]
 Split-screen heading and list body template.
 @snapend
-
 
 +++?image=template/img/bg/black.jpg&position=right&size=50% 100%
 @title[Text + Image]
@@ -65,7 +64,6 @@ Lorem ipsum sit dolor amet, consectetur elit.
 Split-screen text and image template.
 @snapend
 
-
 +++?image=template/img/bg/green.jpg&position=left&size=50% 100%
 @title[Text + Image Fragment]
 
@@ -80,7 +78,6 @@ Lorem ipsum sit dolor amet, consectetur elit.
 @snap[south-west template-note text-white]
 Split-screen text and image-fragment template.
 @snapend
-
 
 +++?image=template/img/bg/black.jpg&position=left&size=50% 100%
 @title[Text + Image Centered]
@@ -100,7 +97,6 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 @snap[south-west template-note text-white]
 Split-screen text and centered image template.
 @snapend
-
 
 +++?image=template/img/bg/pink.jpg&position=right&size=50% 100%
 @title[Text + Image Centered]

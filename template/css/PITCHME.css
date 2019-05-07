@@ -1,3 +1,13 @@
+@import url(/pitchme/cdn/desktop/gitpitch/desktop/master/template/css/fonts.css);
+
+.reveal {
+  font-family: "relative-bold";
+}
+
+.reveal h1 {
+  font-family: "relative-bold";
+}
+
 /* Intro Template Styles */
 
 .byline {
