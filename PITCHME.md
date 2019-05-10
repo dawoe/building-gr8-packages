@@ -15,3 +15,13 @@
 ---?include=template/slides/intro/authors/PITCHME.md
 
 ---?include=template/slides/intro/agenda/PITCHME.md
+
+---?include=template/slides/v8-changes/start/PITCHME.md
+
+---?include=template/slides/v8-changes/coming/PITCHME.md
+
+---?include=template/slides/v8-changes/hartvig-code/PITCHME.md
+
+---?include=template/slides/v8-changes/cleanup/PITCHME.md
+
+---?include=template/slides/v8-changes/features/PITCHME.md
