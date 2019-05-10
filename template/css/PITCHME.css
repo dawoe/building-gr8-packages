@@ -4,7 +4,9 @@
   font-family: "relative-bold";
 }
 
-.reveal h1 {
+.reveal h1,
+.reveal h2,
+.reveal h3 {
   font-family: "relative-bold";
 }
 
