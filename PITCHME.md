@@ -25,3 +25,7 @@
 ---?include=template/slides/v8-changes/cleanup/PITCHME.md
 
 ---?include=template/slides/v8-changes/features/PITCHME.md
+
+---?include=template/slides/great-package/introduction/PITCHME.md
+
+---?include=template/slides/great-package/requirements/PITCHME.md

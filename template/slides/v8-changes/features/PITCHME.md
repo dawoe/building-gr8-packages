@@ -1,6 +1,6 @@
 ---?color=linear-gradient(100deg, white 50%, black 50% )
 
-@title[V8 - Summarized]
+@title[V8 - Features]
 
 @snap[east span-40 text-center h2-white]
 
