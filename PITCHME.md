@@ -29,3 +29,9 @@
 ---?include=template/slides/great-package/introduction/PITCHME.md
 
 ---?include=template/slides/great-package/requirements/PITCHME.md
+
+---?include=template/slides/struggles/introduction/PITCHME.md
+
+---?include=template/slides/struggles/options/PITCHME.md
+
+---?include=template/slides/struggles/poll/PITCHME.md
