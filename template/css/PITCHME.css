@@ -1,13 +1,13 @@
 @import url(/pitchme/cdn/desktop/gitpitch/desktop/master/template/css/fonts.css);
 
 .reveal {
-  font-family: "relative-bold";
+  font-family: "relative-bold", "Lato", sans-serif;
 }
 
 .reveal h1,
 .reveal h2,
 .reveal h3 {
-  font-family: "relative-bold";
+  font-family: "relative-bold", "Lato", sans-serif;
 }
 
 /* Intro Template Styles */
