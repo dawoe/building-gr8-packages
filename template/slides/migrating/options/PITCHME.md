@@ -1,8 +1,14 @@
 ---
 
-@title[Great package requirements]
+@title[Migration options]
 
-@snap[midpoing span-100]
+@snap[north span-100]
+
+## Migration options
+
+@snapend
+
+@snap[midpoint span-100]
 
 @ol[list-bullets-black]
 
@@ -15,9 +21,5 @@
 @olend
 
 <span class="fragment"><br><br>[Skrift article](https://skrift.io/articles/archive/upgrading-umbraco-packages-for-v8-whilst-maintaining-support-for-v7/) by Andy Butland</span>
-
-@snapend
-
-@snap[south span-100 fragment]
 
 @snapend

@@ -30,8 +30,12 @@
 
 ---?include=template/slides/great-package/requirements/PITCHME.md
 
----?include=template/slides/struggles/introduction/PITCHME.md
+---?include=template/slides/migrating/introduction/PITCHME.md
 
----?include=template/slides/struggles/options/PITCHME.md
+---?include=template/slides/migrating/options/PITCHME.md
 
----?include=template/slides/struggles/poll/PITCHME.md
+---?include=template/slides/migrating/poll/PITCHME.md
+
+---?include=template/slides/migrating/struggles/PITCHME.md
+
+---?include=template/slides/migrating/source/PITCHME.md
