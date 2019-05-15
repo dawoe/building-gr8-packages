@@ -39,3 +39,9 @@
 ---?include=template/slides/migrating/struggles/PITCHME.md
 
 ---?include=template/slides/migrating/source/PITCHME.md
+
+---?include=template/slides/propertyeditors/start/PITCHME.md
+
+---?include=template/slides/propertyeditors/changes/PITCHME.md
+
+---?include=template/slides/propertyeditors/editorserivce/PITCHME.md
