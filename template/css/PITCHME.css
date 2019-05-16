@@ -84,10 +84,6 @@
 
 /** Code-Presenting Template Styles ***/
 
-.hljs {
-  background: none;
-}
-
 .reveal pre {
   width: 98%;
   margin: 0px;
@@ -95,12 +91,14 @@
 }
 
 .reveal pre code {
-  font-size: 1.2em;
-  line-height: 1.2;
   border-radius: 10px;
   max-height: 60vh !important;
   overflow-x: hidden !important;
   overflow-y: auto !important;
+}
+
+.reveal pre code .focus.code-show-opacity {
+  font-size: 1.2em;
 }
 
 @media (device-width: 100vw) and (device-height: 100vh) {

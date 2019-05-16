@@ -9,9 +9,9 @@
 @ul[squares text-08]
 
 - Active forum member
-- ~~3x~~ 4x MVP
+
 - Core contributor
-- Award winning package dev
+- Package developer
 - Member of the PR team
 - Member of the BUUG board
 - Part of 24 days in Umbraco

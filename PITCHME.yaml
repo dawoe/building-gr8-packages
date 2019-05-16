@@ -61,3 +61,5 @@ transition: none
 title: "Building gr8 packages"
 description: "Presentation given by Dave Woestenborghs at Umbraco codegarden 19"
 thumbnail: https://gitpitch.com/gpimg/the-template-thumb.jpg
+
+print-fragments: true

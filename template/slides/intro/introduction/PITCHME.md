@@ -13,6 +13,7 @@
 - From Belgium
 - Works at We Are You
 - Using Umbraco since 2008
+- ~~3x~~ 4x MVP
   @ulend
   @snapend
 
