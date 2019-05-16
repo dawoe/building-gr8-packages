@@ -49,3 +49,5 @@
 ---?include=template/slides/propertyeditors/registration/PITCHME.md
 
 ---?include=template/slides/propertyeditors/converters/PITCHME.md
+
+---?include=template/slides/composing/PITCHME.md

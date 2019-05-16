@@ -6,7 +6,7 @@
 
 ### Hello
 
-@ul[squares text-08]
+@ul[squares text-08](false)
 
 - Dave Woestenborghs
 - 42 years old
