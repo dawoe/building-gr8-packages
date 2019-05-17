@@ -1,4 +1,4 @@
----?color=#F5D9FF
+---?color=#FFC927
 
 @title[Extending Umbraco]
 
@@ -120,7 +120,7 @@ Subscribing Umbraco events or extending Umbraco is done in a [ApplicationEventHa
 
 - [Composing documentation](https://our.umbraco.com/documentation/implementation/composing/)
 - [Composing Umbraco V8](https://www.zpqrtbnk.net/posts/composing-umbraco-v8/)
-- [Componsing Umbraco V8 collections](https://www.zpqrtbnk.net/posts/composing-umbraco-v8-collections/)
+- [Composing Umbraco V8 collections](https://www.zpqrtbnk.net/posts/composing-umbraco-v8-collections/)
 - [Composing Umbraco V8 Components](https://www.zpqrtbnk.net/posts/composing-umbraco-v8-components/)
 
   @ulend

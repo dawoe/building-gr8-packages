@@ -17,6 +17,7 @@
 - Removal of XSLT
 - Removal of legacy API's
 - NuCache
+- Dependency injection
 - Rename all the things 😁
 
   @ulend

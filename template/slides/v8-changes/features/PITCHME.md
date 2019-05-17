@@ -16,7 +16,6 @@
 - Content apps
 - Infinite editing
 - New backoffice UI
-- Dependency injection
 
   @ulend
 

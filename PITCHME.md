@@ -50,4 +50,6 @@
 
 ---?include=template/slides/propertyeditors/converters/PITCHME.md
 
+---?include=template/slides/dashboard/PITCHME.md
+
 ---?include=template/slides/composing/PITCHME.md
