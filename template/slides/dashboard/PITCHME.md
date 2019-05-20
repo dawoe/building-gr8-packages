@@ -58,8 +58,7 @@ Register by using the [package manifest](https://our.umbraco.com/documentation/E
             "sections": [ "content", "settings" ],
             "weight": -10,
             "access": [
-                { "deny": "translator" },
-                { "grant": "admin" }
+                { "grant": "translator" }               
             ]
         }
     ]

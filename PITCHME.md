@@ -53,3 +53,6 @@
 ---?include=template/slides/dashboard/PITCHME.md
 
 ---?include=template/slides/composing/PITCHME.md
+
+---?include=template/slides/contentapps/PITCHME.md
+

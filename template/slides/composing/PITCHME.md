@@ -1,4 +1,4 @@
----?color=#FFC927
+---?color=#26ffc9
 
 @title[Extending Umbraco]
 
@@ -126,3 +126,56 @@ Subscribing Umbraco events or extending Umbraco is done in a [ApplicationEventHa
   @ulend
 
 @snapend
+
+--- 
+
+@title[Composer example]
+
+@snap[north span-100 text-center]
+
+### Composer
+
+@snapend
+
+```csharp
+    [RuntimeLevel(MinLevel = RuntimeLevel.Run)]
+    internal class NexuComposer : IUserComposer
+    {
+        public void Compose(Composition composition)
+        {          
+            composition.Register<IEntityParsingService, NexuEntityParsingService>();
+            composition.Register<IRelationRepository, NexuRelationRepository>();
+
+            composition.Components().Append<MigrationComponent>();
+            composition.Components().Append<ContentServiceEventsComponent>();
+        }
+    }
+```
+@[1](Optionally set the Runtime level with attribute)
+@[2](Inherit from IUserComposer)
+@[4-11]
+
+--- 
+
+@title[Component example]
+
+@snap[north span-100 text-center]
+
+### Component
+
+@snapend
+
+```csharp
+    internal class ContentServiceEventsComponent : IComponent
+    {                    
+        public void Initialize()
+        {
+            ContentService.Saved += this.ContentServiceOnSaved;
+        }
+       
+        public void Terminate()
+        {
+            ContentService.Saved -= this.ContentServiceOnSaved;
+        }    
+    }
+```

@@ -88,6 +88,7 @@
   width: 98%;
   margin: 0px;
   box-shadow: none;
+  font-size: 0.5em;
 }
 
 .reveal pre code {
