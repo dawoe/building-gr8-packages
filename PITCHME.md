@@ -58,3 +58,12 @@
 
 ---?include=template/slides/migrations/PITCHME.md
 
+---
+@title[Questions]
+
+@snap[midpoint text-bold]
+
+# Questions ?
+
+@snapend
+
