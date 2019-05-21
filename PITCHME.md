@@ -56,3 +56,5 @@
 
 ---?include=template/slides/contentapps/PITCHME.md
 
+---?include=template/slides/migrations/PITCHME.md
+

@@ -1,4 +1,4 @@
----?color=#F5D9FF
+---?color=#ffc927
 
 @title[Dashboards]
 
@@ -10,7 +10,7 @@
 
 ---
 
-@title[V7 - ApplicationEventHandler]
+@title[V7 - Registration in config]
 
 @snap[north span-100 text-center]
 

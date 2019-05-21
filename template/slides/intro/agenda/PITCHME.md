@@ -17,7 +17,6 @@
 - Migrating packages from V7
 - Angular changes
 - C# changes
-- Packaging
 
   @ulend
 
