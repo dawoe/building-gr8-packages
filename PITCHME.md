@@ -58,6 +58,78 @@
 
 ---?include=template/slides/migrations/PITCHME.md
 
+---?color=#F5D9FF
+
+@title[Packaging]
+
+@snap[east text-bold]
+
+# Packaging
+
+@snapend
+
+---
+
+@title[Using the backoffice]
+
+@snap[north text-center span-100]
+
+### Using the backoffice
+
+@snapend
+
+@snap[midpoint text-center span-100]
+
+
+@ul
+- Create a package in the backoffice
+- Only support umbraco package format
+- Error prone
+@ulend
+
+<br>
+<br>
+<br>
+<span class="fragment">
+A [guide](https://24days.in/umbraco-cms/2017/creating-and-publishing-a-package/) by Paul Seal
+</span>
+
+
+
+@snapend
+
+---
+
+@title[Automate]
+
+@snap[north text-center span-100]
+
+### Automate
+
+@snapend
+
+@snap[midpoint text-center span-100]
+
+
+@ul
+- Using a build service
+- Listens to git commits on branches
+- Easy to release beta-versions
+- Nuget version
+@ulend
+
+<br>
+<br>
+<br>
+<span class="fragment">
+A [guide](https://24days.in/umbraco-cms/2014/packaging-with-appveyor/) by Jeavon Leopold
+</span>
+
+
+
+@snapend
+
+
 ---
 @title[Questions]
 
